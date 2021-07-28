@@ -1,0 +1,54 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(pink, lavender, skyblue);
+}
+
+#one,
+#two,
+#third,
+#fourth,
+#fifth,
+#sixth {
+    height: 300px;
+    width: 300px;
+}
+
+.first {
+    width: 500px;
+}
+
+#myCarousel img {
+    width: 50px;
+    margin-top: 35px;
+}
+
+.carousel-inner {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+}
+
+img {
+    height: 350px;
+    width: 400px;
+}
+
+.item {
+    padding-top: 100px;
+}
+
+#home {
+    height: 600px;
+    width: 600px;
+}
+
+.a {
+    font-size: 20px
+}
+
+.menu1 {
+    list-style: none;
+    background-color: azure;
+    color: royalblue;
+    text-align: center;
+}
